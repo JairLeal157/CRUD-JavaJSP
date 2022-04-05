@@ -34,8 +34,8 @@
     </nav>
     <nav class = "nav boxshadow buscador">
         <form class ="buscador" action = "Controladores">
-            <button class ="nav__enlace--activo" type="submit" name = "accion" value="buscar" >Buscar</button>
-             <input required class ="caja input_buscar" type="number"  id ="idbuscar" name="idbuscar">
+            <button class ="nav__enlace botonBuscar" type="submit" name = "accion" value="buscar" >Buscar</button>
+             <input required class ="buscar" type="number"  id ="idbuscar" name="idbuscar">
         </form>
     </nav>
     <main class ="contenedor">
